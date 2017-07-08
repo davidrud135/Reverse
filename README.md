@@ -1,11 +1,11 @@
 # Reverse (HTML Version)
 My program return reversed string.
 
-Just write you want to reverse and click Reverse button or hit Enter.
-
 For example:
 
 If you write 'Hello', the result will be 'olleH'.
+
+Just write you want to reverse and click Reverse button or hit Enter.
 
 ## How to start
 There are 2 ways:
@@ -20,6 +20,6 @@ Then go to cloned repository and open index.html file.
  ### 2. Download ZIP archive
 Do as below:
 
-
+![Image alt](https://github.com/davidrud135/Reverse/blob/develop/zip.png)
 
 Later unpack archive and open index.html file.
