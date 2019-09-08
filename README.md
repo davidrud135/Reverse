@@ -1,5 +1,5 @@
-# Reverse (HTML Version)
-My program return reversed string.
+# Reverse
+My program returns reversed string.
 
 For example:
 
